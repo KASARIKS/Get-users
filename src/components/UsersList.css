@@ -1,0 +1,13 @@
+.users-list {
+    list-style: none;
+    padding: 0;
+    border: 1px solid black;
+    border-width: 2px;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.users-li {
+    background-color: antiquewhite;
+    margin: 5px;
+}
